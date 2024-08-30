@@ -27,7 +27,7 @@
  "n26": ["./data_sim/ICASSP 투표 샘플/MOS/VCTK/src;p246_092&tgt;p241_354/src.wav", "en", "src"], 
  "n27": ["./data_sim/ICASSP 투표 샘플/MOS/VCTK/src;p246_092&tgt;p241_354/tgt.wav", "en", "tgt"], 
  "n30": ["./data_sim/ICASSP 투표 샘플/MOS/VCTK/src;p246_092&tgt;p241_354/VQVC_plus_37.wav", "en", "VQVC_plus_37"], 
- "n31": ["./data_sim/ICASSP 투표 샘플/MOS/VCTK/src;p246_092&tgt;p241_354/YourTTS.wav", "en", "YourTTS"], 
+
 
  "s1": ["./data_sim/ICASSP 투표 샘플/SMOS/VCTK/src;p228_268&tgt;p275_061/tgt.wav", [["./data_sim/ICASSP 투표 샘플/SMOS/VCTK/src;p228_268&tgt;p275_061/FreeVC.wav", "FreeVC"], ["./data_sim/ICASSP 투표 샘플/SMOS/VCTK/src;p228_268&tgt;p275_061/Ours.wav", "Ours"], ["./data_sim/ICASSP 투표 샘플/SMOS/VCTK/src;p228_268&tgt;p275_061/VQMIVC.wav", "VQMIVC"],["./data_sim/ICASSP 투표 샘플/SMOS/VCTK/src;p228_268&tgt;p275_061/VQVC_plus.wav", "VQVC_plus"],["./data_sim/ICASSP 투표 샘플/SMOS/VCTK/src;p228_268&tgt;p275_061/VQVC_plus_37.wav", "VQVC_plus_37"],["./data_sim/ICASSP 투표 샘플/SMOS/VCTK/src;p228_268&tgt;p275_061/YourTTS.wav", "YourTTS"]], "src"], 
  "s2": ["./data_sim/ICASSP 투표 샘플/SMOS/VCTK/src;p244_308&tgt;p276_276/tgt.wav", [["./data_sim/ICASSP 투표 샘플/SMOS/VCTK/src;p244_308&tgt;p276_276/FreeVC.wav", "FreeVC"], ["./data_sim/ICASSP 투표 샘플/SMOS/VCTK/src;p244_308&tgt;p276_276/Ours.wav", "Ours"], ["./data_sim/ICASSP 투표 샘플/SMOS/VCTK/src;p244_308&tgt;p276_276/VQMIVC.wav", "VQMIVC"],["./data_sim/ICASSP 투표 샘플/SMOS/VCTK/src;p244_308&tgt;p276_276/VQVC_plus.wav", "VQVC_plus"],["./data_sim/ICASSP 투표 샘플/SMOS/VCTK/src;p244_308&tgt;p276_276/VQVC_plus_37.wav", "VQVC_plus_37"],["./data_sim/ICASSP 투표 샘플/SMOS/VCTK/src;p244_308&tgt;p276_276/YourTTS.wav", "YourTTS"]], "src"],
